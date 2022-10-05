@@ -35,7 +35,7 @@ class _LoginScreenState extends State<LoginScreen> {
                 BoxShadow(
                   color: Colors.grey,
                   blurRadius: 7,
-                  offset: Offset(0, 10), // changes position of shadow
+                  offset: Offset(0, 10), 
                 )
               ],
             ),
@@ -100,10 +100,6 @@ class _LoginScreenState extends State<LoginScreen> {
     );
   }
 }
-
-// Widget getLoginTab(BuildContext context){
-//   return
-// }
 
 class LoginTab extends StatelessWidget {
   const LoginTab({super.key});
