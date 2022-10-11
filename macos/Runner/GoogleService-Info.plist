@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>379948840945-9ghfqhdrl1mh95nm3pljho3u332v89uf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.379948840945-9ghfqhdrl1mh95nm3pljho3u332v89uf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCnZEn6lS25bu5zXFHhuojQttFj2dEqCqg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>379948840945</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.steppingStoneApp</string>
+	<key>PROJECT_ID</key>
+	<string>steppingstone-e8643</string>
+	<key>STORAGE_BUCKET</key>
+	<string>steppingstone-e8643.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:379948840945:ios:20dbaef4990986d0907650</string>
+</dict>
+</plist>
